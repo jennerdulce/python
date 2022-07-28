@@ -57,3 +57,10 @@ else:
 # str()
 # int()
 # float()
+
+# String Interpolation
+def string_interpolation():
+    name = input("What is your name? ")
+    print(f'Hi {name}!')
+
+string_interpolation()
