@@ -106,6 +106,7 @@ def append_and_insert():
 
 # append_and_insert()
 
+# Removing contents
 def del_remove_pop():
     copy_colors = colors[:]
     print(copy_colors)
